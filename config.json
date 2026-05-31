@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderdender",
+        "uuid": 17173572,
+        "checksum": "nb7y8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
